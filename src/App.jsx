@@ -19,6 +19,7 @@ let a7 = {n}*7;
 let a8 = {n}*8;
 let a9 = {n}*9;
 let a10 = {n}*10;
+//d/d/dd/d/d/d/d/d//d/d
   return (
     <>
      <div class="head"> <a class="nrkomp">Komputer przy którym siedzę ma numer {n}</a></div>
